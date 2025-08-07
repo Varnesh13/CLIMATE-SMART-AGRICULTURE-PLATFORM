@@ -38,8 +38,7 @@ A platform designed to support farmers by providing data-driven insights to impr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dishatimbadiya/Climate-Smart-Agriculture-Platform.git
-
+   git clone https://github.com/Varnesh13/CLIMATE-SMART-AGRICULTURE-PLATFORM.git
 
 2. Install dependencies for both frontend and backend:
     ```bash
